@@ -48,13 +48,13 @@
 
 ## Repositories worth watching
 
-### [`ai-dw-workbench`](https://github.com/Rrocean/ai-dw-workbench)
+### [`ai-dw-workbench`](https://github.com/SevenDataAI/ai-dw-workbench)
 
 Enterprise-oriented Data + AI workbench.
 
 It covers requirement clarification, warehouse design, controlled database analysis, release gates, governance checks, and knowledge flywheel for Data Agent systems.
 
-### [`data-agent-eval-kit`](https://github.com/Rrocean/data-agent-eval-kit)
+### [`data-agent-eval-kit`](https://github.com/SevenDataAI/data-agent-eval-kit)
 
 Evaluation templates for AI ask-data / fetch-data / NL2SQL workflows.
 
