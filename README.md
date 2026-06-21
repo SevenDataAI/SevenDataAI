@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/SevenDataAI-avatar.png" width="140" alt="SevenDataAI avatar" />
+</p>
+
 # Seven Data AI
 
 > AI data engineering, data warehouse delivery, and production-grade Data Agent workflows.
