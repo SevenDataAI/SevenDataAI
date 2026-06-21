@@ -48,13 +48,13 @@
 
 ## Repositories worth watching
 
-### `ai-dw-workbench`
+### [`ai-dw-workbench`](https://github.com/Rrocean/ai-dw-workbench)
 
 Enterprise-oriented Data + AI workbench.
 
 It covers requirement clarification, warehouse design, controlled database analysis, release gates, governance checks, and knowledge flywheel for Data Agent systems.
 
-### `data-agent-eval-kit`
+### [`data-agent-eval-kit`](https://github.com/Rrocean/data-agent-eval-kit)
 
 Evaluation templates for AI ask-data / fetch-data / NL2SQL workflows.
 
@@ -66,6 +66,8 @@ Focus areas:
 - SQL review rules
 - permission and sensitive field checks
 - Bad Case attribution
+
+This is the first public toolkit in this direction. It includes Gold Case templates, trade-domain sample cases, baseline SQL, SQL review rules, a lightweight evaluator and a production readiness checklist.
 
 ### `ai-data-skills`
 
@@ -122,4 +124,3 @@ AI 数据工程里最重要的不是“模型会不会回答”，而是：
 - 改动后能不能回归
 
 如果这些问题解决不了，AI 问数永远只能停在 Demo。
-
