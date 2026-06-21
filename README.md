@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/SevenDataAI-avatar.png" width="140" alt="SevenDataAI avatar" />
+  <img src="./assets/SevenDataAI-avatar-github.jpg" width="140" alt="SevenDataAI avatar" />
 </p>
 
 # Seven Data AI
